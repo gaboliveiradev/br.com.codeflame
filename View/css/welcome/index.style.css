@@ -165,6 +165,10 @@ main > .img3{
     animation: float 2s ease-in-out infinite;
 }
 
+.download:hover{
+    animation: float 2s ease-in-out infinite;
+}
+
 /* ================= LIMPANDO APÓS USAR A PROPRIEDADE FLOAT ================= */
 
 .clear{
@@ -173,6 +177,30 @@ main > .img3{
 
 /* ================= SECTION | "WHY USE CODEFLAME?" ================= */
 
+.card{
+    width: 350px;
+    height: 250px;
+    margin: 20px 10px;
+    padding: 10px;
+}
+
+.cards-box{
+    display: flex;
+    justify-content: center;
+}
+
+.why-use > .title{
+    text-align: center;
+    font-size: 2em;
+}
+
+.cards-box > .card > .img > img{
+    width: 40px;
+}
+
+.cards-box > .card > .title{
+    padding: 10px 0;
+}
 
 
 /* ================= RESPONSIVIDADE ================= */
