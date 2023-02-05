@@ -56,6 +56,10 @@ header .logo img{
     list-style: none;
 }
 
+.follow:hover{
+    animation: float 2s ease-in-out infinite;
+}
+
 /* ================= MAIN ================= */
 
 main{
@@ -149,8 +153,16 @@ main > .img3{
 		transform:translatey(0)
 	}
 	50%{
-		transform:translatey(-30px)
+		transform:translatey(-5px)
 	}
+}
+
+.getstarted:hover{
+    animation: float 2s ease-in-out infinite;
+}
+
+.documentation:hover{
+    animation: float 2s ease-in-out infinite;
 }
 
 /* ================= RESPONSIVIDADE ================= */
