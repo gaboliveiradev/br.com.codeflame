@@ -165,4 +165,8 @@ main > .img3{
     animation: float 2s ease-in-out infinite;
 }
 
+.clear{
+    clear: both;
+}
+
 /* ================= RESPONSIVIDADE ================= */

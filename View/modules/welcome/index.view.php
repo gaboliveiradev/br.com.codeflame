@@ -48,5 +48,9 @@
         <img class="img2" src="./../../../View/assets/favicon.png">
         <img class="img3" src="./../../../View/assets/favicon.png">
     </main>
+    <div class="clear"></div>
+    <section>
+        <h1>Hello World</h1>
+    </section>
 </body>
 </html>
