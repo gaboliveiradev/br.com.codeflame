@@ -1,0 +1,156 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-image: url(./../../../View/assets/fundo.png);
+}
+
+/* ================= HEADER ================= */
+
+header{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+header .logo img{
+    max-width: 150px;
+    width: 100%;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.follow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.follow a {
+    text-decoration: none;
+    border: 2px solid #d43a00;
+    padding: 10px;
+    font-weight: bold;
+    color: #d43a00;
+}
+
+.nav ul{
+    display: flex;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    margin: 10px;
+    color: #8b8a8a;
+}
+
+.nav ul li {
+    list-style: none;
+}
+
+/* ================= MAIN ================= */
+
+main{
+    margin: 50px auto;
+    text-align: center;
+    width: 950px;
+    max-width: 100%;
+}
+
+.box-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.box-main .title{
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.destaque{
+    color: #fdbf5c;
+}
+
+.subtitle{
+    color: #8b8a8a;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.buttons{
+    display: flex;
+}
+
+.buttons .getstarted, .buttons .documentation{
+    padding: 10px;
+    border: 2px solid #d43a00;
+    margin: 10px;
+}
+
+.getstarted a, .documentation a{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.getstarted{
+    background-color: #d43a00;
+}
+
+.getstarted a{
+    color: #fff;
+}
+
+.documentation a {
+    color: #d43a00;
+}
+
+main > .img1{
+    float: left;
+    position: relative;
+    top: -440px;
+    right: 50px;
+    width: 50px;
+    max-width: 100%;
+    animation: float 2s ease-in-out infinite;
+}
+
+main > .img2{
+    float: left;
+    position: relative;
+    top: -480px;
+    left: 650px;
+    width: 50px;
+    max-width: 100%;
+    animation: float 2s ease-in-out infinite;
+}
+
+main > .img3{
+    float: left;
+    position: relative;
+    top: -220px;
+    left: 850px;
+    width: 50px;
+    max-width: 100%;
+    animation: float 2s ease-in-out infinite;
+}
+
+@keyframes float{
+	0%,100%{
+		transform:translatey(0)
+	}
+	50%{
+		transform:translatey(-30px)
+	}
+}
+
+/* ================= RESPONSIVIDADE ================= */
