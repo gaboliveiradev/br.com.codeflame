@@ -81,7 +81,7 @@ main{
     margin-bottom: 20px;
 }
 
-.destaque{
+.emphasis{
     color: #fdbf5c;
 }
 
@@ -95,26 +95,26 @@ main{
     display: flex;
 }
 
-.buttons .getstarted, .buttons .documentation{
+.buttons .getstarted, .buttons .documentation, .buttons .download{
     padding: 10px;
     border: 2px solid #d43a00;
     margin: 10px;
 }
 
-.getstarted a, .documentation a{
+.getstarted a, .documentation a, .download a{
     text-decoration: none;
     font-weight: bold;
 }
 
-.getstarted{
+.getstarted, .download{
     background-color: #d43a00;
 }
 
-.getstarted a{
+.getstarted a, .download a{
     color: #fff;
 }
 
-.documentation a {
+.documentation a{
     color: #d43a00;
 }
 
@@ -165,8 +165,14 @@ main > .img3{
     animation: float 2s ease-in-out infinite;
 }
 
+/* ================= LIMPANDO APÓS USAR A PROPRIEDADE FLOAT ================= */
+
 .clear{
     clear: both;
 }
+
+/* ================= SECTION | "WHY USE CODEFLAME?" ================= */
+
+
 
 /* ================= RESPONSIVIDADE ================= */

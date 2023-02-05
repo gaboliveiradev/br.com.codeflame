@@ -29,7 +29,7 @@
     <main>
         <div class="box-main">
             <div class="title">
-                <h1>Transform your development with Codeflame <span class="destaque">the revolutionary PHP framework.</span></h1>
+                <h1>Transform your development with Codeflame <span class="emphasis">the revolutionary PHP framework.</span></h1>
             </div>
             <div class="subtitle">
                 <p>CodeFlame is an excellent choice for PHP developers seeking to increase their productivity and efficiency without sacrificing code quality or application functionality. Try it today and experience the difference that a well-designed framework can make in your software development journey!</p>
@@ -41,6 +41,9 @@
                 <div class="documentation">
                     <a href="">DOCUMENTATION</a>
                 </div>
+                <div class="download">
+                    <a href="">DOWNLOAD</a>
+                </div>
             </div>
         </div>
 
@@ -49,8 +52,13 @@
         <img class="img3" src="./../../../View/assets/favicon.png">
     </main>
     <div class="clear"></div>
-    <section>
-        <h1>Hello World</h1>
+    <section class="why-use">
+        <div class="title">
+            <h1>Why use Codeflame?</h1>
+        </div>
+        <div class="cards">
+
+        </div>
     </section>
 </body>
 </html>
