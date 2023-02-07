@@ -42,7 +42,7 @@
                     <a href="">DOCUMENTATION</a>
                 </div>
                 <div class="download">
-                    <a href="">DOWNLOAD</a>
+                    <a href="./../../../View/assets/msi/InstallerCodeflame.msi" download="install codeflame.msi">DOWNLOAD</a>
                 </div>
             </div>
         </div>
