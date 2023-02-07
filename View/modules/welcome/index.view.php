@@ -36,10 +36,7 @@
             </div>
             <div class="buttons">
                 <div class="getstarted">
-                    <a href="">GET STARTED</a>
-                </div>
-                <div class="documentation">
-                    <a href="">DOCUMENTATION</a>
+                    <a href="/getstarted">GET STARTED</a>
                 </div>
                 <div class="download">
                     <a href="./../../../View/assets/msi/InstallerCodeflame.msi" download="install codeflame.msi">DOWNLOAD</a>

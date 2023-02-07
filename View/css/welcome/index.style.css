@@ -95,13 +95,13 @@ main{
     display: flex;
 }
 
-.buttons .getstarted, .buttons .documentation, .buttons .download{
+.buttons .getstarted, .buttons .download{
     padding: 10px;
     border: 2px solid #d43a00;
     margin: 10px;
 }
 
-.getstarted a, .documentation a, .download a{
+.getstarted a, .download a{
     text-decoration: none;
     font-weight: bold;
 }
@@ -112,10 +112,6 @@ main{
 
 .getstarted a, .download a{
     color: #fff;
-}
-
-.documentation a{
-    color: #d43a00;
 }
 
 main > .img1{
@@ -158,10 +154,6 @@ main > .img3{
 }
 
 .getstarted:hover{
-    animation: float 2s ease-in-out infinite;
-}
-
-.documentation:hover{
     animation: float 2s ease-in-out infinite;
 }
 
