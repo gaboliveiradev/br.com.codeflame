@@ -9,7 +9,7 @@ $parse_uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 switch($parse_uri) {
 
     
-    case "/welcome":
+    case "/about":
         WelcomeController::index();
     break;
 
@@ -18,6 +18,6 @@ switch($parse_uri) {
     break;
 
     default:
-        header("Location: /welcome");
+        header("Location: /about");
     break;
 }

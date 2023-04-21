@@ -10,21 +10,7 @@
 </head>
 <body>
     <header>
-        <div class="logo">
-            <img src="./../../../View/assets/logo.png">
-        </div>
-        <div class="nav">
-            <ul>
-                <li><a href="">About</a></li>
-                <li><a href="">Documentation</a></li>
-                <li><a href="">Realeases</a></li>
-                <li><a href="">Pay My Coffee</a></li>
-                <li><a href="">Github</a></li>
-            </ul>
-        </div>
-        <div class="follow">
-            <a target="__blank" href="https://www.instagram.com/eugabriieloliveira_/">Follow The Developer</a>
-        </div>
+        <?php include "./View/includes/navbar.php" ?>
     </header>
     <main>
         <div class="box-main">
@@ -39,7 +25,7 @@
                     <a href="/getstarted">GET STARTED</a>
                 </div>
                 <div class="download">
-                    <a href="./../../../View/assets/msi/InstallerCodeflame.msi" download="install codeflame.msi">DOWNLOAD</a>
+                    <a href="./../../../View/assets/msi/InstallerCodeflame.msi" download="install codeflame.msi">DOWNLOAD v1.2.0-beta</a>
                 </div>
             </div>
         </div>

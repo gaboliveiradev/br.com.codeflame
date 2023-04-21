@@ -3,3 +3,51 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+main .sec__install__codeflame h1 {
+    font-size: 42px;
+    margin-bottom: 10px;
+}
+
+main .sec__install__codeflame h1 > span {
+    color: #fdbf5c;
+}
+
+.box__install__tutorial > .item {
+    text-align: left;
+}
+
+.box__install__tutorial > .item > p {
+    padding: 10px 0;
+}
+
+.box__install__tutorial > .item h2 {
+    padding: 10px;
+    color: #d43a00;
+}
+
+.destaque {
+    color: #fdbf5c;
+    font-weight: bold;
+}
+
+.btn__cmd {
+    margin-top: 40px;
+}
+
+.btn__cmd a {
+    font-size: large;
+    text-decoration: none;
+    background-color: #d43a00;
+    color: #fff;
+    font-weight: bold;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.download {
+    padding: 10px;
+    border: 2px solid #d43a00;
+    margin: 10px;
+    font-size: large;
+}
