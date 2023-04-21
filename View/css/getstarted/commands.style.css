@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main .sec__commands__documentation h1 {
+    font-size: 42px;
+    margin-bottom: 10px;
+}
+
+main .sec__commands__documentation h1 > span {
+    color: #fdbf5c;
+}
+
+.item {
+    padding-top: 20px;
+    text-align: left;
+}
+
+.item h2 {
+    color: #d43a00;
+}
+
+.cmd {
+    background-color: #232631;
+    color: #dddddd;
+    font-weight: bold;
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.cmd p {
+    padding: 5px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.cmd[name="all-commands"] p:hover {
+    padding: 5px;
+    color: #fdbf5c;
+    transition: 0.3s;
+}
+
+.color__number {
+    color: #3c4155;
+    padding-right: 20px;
+}
+
+.pd {
+    padding-right: 12px !important;
+}
+
+.ptb-10 {
+    padding: 10px 0;
+    margin: 10px;
+}

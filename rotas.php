@@ -17,6 +17,10 @@ switch($parse_uri) {
         GetStartedController::index();
     break;
 
+    case "/commands-documentation":
+        GetStartedController::viewCommands();
+    break;
+
     default:
         header("Location: /about");
     break;
