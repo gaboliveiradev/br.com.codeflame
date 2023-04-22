@@ -47,6 +47,9 @@
                 </div>
             </div>
 
+            <br>
+            <hr>
+
             <div class="item">
                 <h2><i class="bi bi-dpad-fill"></i> Criar camada Controller</h2>
                 <p class="ptb-10">Abaixo estão todos os comandos e suas variações para criar a camada controller em seu projeto. Basta escolher qual variação você se adapta melhor e digitar no seu prompt de comando.</p>
@@ -64,6 +67,9 @@
                     <p><span class="color__number">2</span> cf m:c UsuarioController</p>
                 </div>
             </div>
+
+            <br>
+            <hr>
 
             <div class="item">
                 <h2><i class="bi bi-car-front"></i> Criar camada Model</h2>
@@ -83,6 +89,9 @@
                 </div>
             </div>
 
+            <br>
+            <hr>
+
             <div class="item">
                 <h2><i class="bi bi-database-fill"></i> Criar camada DAO</h2>
                 <p class="ptb-10">Abaixo estão todos os comandos e suas variações para criar a camada DAO em seu projeto. Basta escolher qual variação você se adapta melhor e digitar no seu prompt de comando.</p>
@@ -98,6 +107,46 @@
                 <div class="cmd">
                     <p><span class="color__number">1</span> codeflame make:dao Usuario</p>
                     <p><span class="color__number">2</span> cf m:d UsuarioDAO</p>
+                </div>
+            </div>
+
+            <br>
+            <hr>
+
+            <div class="item">
+                <h2><i class="bi bi-broadcast"></i> Ver Todos os Comandos</h2>
+                <p class="ptb-10">Abaixo estão todos os comandos e suas variações para ver todos os comandos existentes do codeflame. Basta escolher qual variação você se adapta melhor e digitar no seu prompt de comando.</p>
+                <div class="cmd" name="all-commands">
+                    <p><span class="color__number">1</span> codeflame list</p>
+                    <p><span class="color__number">2</span> codeflame commands</p>
+                    <p><span class="color__number">3</span> codeflame cmd</p>
+                    <p><span class="color__number">4</span> cf list</p>
+                    <p><span class="color__number">5</span> cf commands</p>
+                    <p><span class="color__number">6</span> cf cmd</p>
+                </div>
+                <p class="ptb-10">Veja um exemplo de como utilizar o comando para ver todos os comandos do codeflame.</p>
+                <div class="cmd">
+                    <p><span class="color__number">1</span> codeflame commands</p>
+                    <p><span class="color__number">2</span> cf cmd</p>
+                </div>
+            </div>
+
+            <br>
+            <hr>
+
+            <div class="item">
+                <h2><i class="bi bi-file-diff-fill"></i> Versão do Codeflame</h2>
+                <p class="ptb-10">Abaixo estão todos os comandos e suas variações para ver a versão atual do codeflame. Basta escolher qual variação você se adapta melhor e digitar no seu prompt de comando.</p>
+                <div class="cmd" name="all-commands">
+                    <p><span class="color__number">1</span> codeflame --version</p>
+                    <p><span class="color__number">2</span> codeflame --v</p>
+                    <p><span class="color__number">3</span> cf --version</p>
+                    <p><span class="color__number">4</span> cf --v</p>
+                </div>
+                <p class="ptb-10">Veja um exemplo de como utilizar o comando para ver a atual versão do codeflame.</p>
+                <div class="cmd">
+                    <p><span class="color__number">1</span> codeflame --version</p>
+                    <p><span class="color__number">2</span> cf --v</p>
                 </div>
             </div>
         </section>
