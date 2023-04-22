@@ -97,5 +97,17 @@
             </div>
         </div>
     </section>
+
+    <section class="sec__demonstrar">
+        <div class="title__video">
+            <h1>Veja como Funciona o <span class="color">Codeflame</span></h1>
+        </div>
+        <div class="video">
+            <video width="900" controls>
+                <source src="./../../../View/assets/demonstracao.mp4" type="video/mp4">
+                Seu brownser não suporta vídeo.
+            </video>
+        </div>
+    </section>
 </body>
 </html>

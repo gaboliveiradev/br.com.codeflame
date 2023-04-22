@@ -195,5 +195,25 @@ main > .img3{
     padding: 10px 0;
 }
 
+/* ================ DEMONSTRAÇÃO CODEFLAME ================== */
+
+.title__video {
+    text-align: center;
+    font-size: 2em;
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+
+.color {
+    color: #fdbf5c;
+}
+
+.sec__demonstrar {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
 
 /* ================= RESPONSIVIDADE ================= */
