@@ -1,10 +1,12 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.4/font/bootstrap-icons.css">
+
 <div class="logo">
     <img src="./../../../View/assets/logo.png">
 </div>
 <div class="nav">
     <ul>
         <li><a href="/about">SOBRE</a></li>
-        <li><a href="">DOCUMENTAÇÃO</a></li>
+        <li><a href="/documentation">DOCUMENTAÇÃO</a></li>
         <li><a href="/getstarted">GET STARTED</a></li>
         <li><a href="/commands">COMANDOS CLI</a></li>
         <li><a href="">ATUALIZAÇÕES</a></li>

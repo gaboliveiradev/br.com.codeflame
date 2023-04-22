@@ -9,7 +9,6 @@
     <link rel="shortcut icon" href="./../../../View/assets/logo.png" type="image/x-icon">
     <link rel="stylesheet" href="./../../../View/css/welcome/index.style.css">
     <link rel="stylesheet" href="./../../../View/css/getstarted/index.style.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.4/font/bootstrap-icons.css">
     <title>Get Started with Codeflame</title>
 </head>
 <body>

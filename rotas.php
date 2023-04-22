@@ -1,5 +1,6 @@
 <?php
 use App\Controller\{
+    DocumentationController,
     WelcomeController,
     GetStartedController
 };
@@ -19,6 +20,10 @@ switch($parse_uri) {
 
     case "/commands":
         GetStartedController::viewCommands();
+    break;
+
+    case "/documentation":
+        DocumentationController::index();
     break;
 
     default:
