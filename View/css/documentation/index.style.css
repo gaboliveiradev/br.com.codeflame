@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+}
+
+.sidebar__sumario {
+    width: 20%;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.content__documentation {
+    border: 1px solid blue;
+    width: 80%;
+    margin: 20px;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    height: 100%; /* <--------------------------------------------------------------------------------- */
+}
+
+/*  SIDEBAR SUMARY */
+
+.title__sumario__documentation {
+    padding: 40px;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    border-radius: 10px;
+    background-color: #fdbf5c;;
+}
+
+.itens__sumario {
+    padding: 25px 40px;
+}
+
+.itens__sumario ul li ol {
+    margin-left: 15px;
+}
+
+ul > li {
+    padding: 10px;
+}
