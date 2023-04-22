@@ -18,8 +18,19 @@
 
     <main>
         <section class="sec__commands__documentation">
-            <h1>Comandos e Documentação do <span>Codeflame</span></h1>
-            <div class="item">
+            <h1>Comandos do <span>Codeflame</span></h1>
+            <div class="sumario">
+                <h3>Navegue para um comando específico</h3>
+                <a href="#cmd1">CRIAR PROJETO MVC</a> 
+                <a href="#cmd2">CRIAR CONTROLLER</a> 
+                <a href="#cmd3">CRIAR MODEL</a> 
+                <a href="#cmd4">CRIAR DAO</a>
+                <a href="#cmd5">VER COMANDOS</a>
+                <a href="#cmd6">VER VERSÃO ATUAL</a>
+            </div>
+
+
+            <div class="item" id="cmd1">
                 <h2><i class="bi bi-stack"></i> Criar projeto MVC (Model View Controller)</h2>
                 <p class="ptb-10">Abaixo estão todos os comandos e suas variações para criar um projeto MVC em questão de segundos. Basta escolher qual variação você se adapta melhor e digitar no seu prompt de comando.</p>
                 <div class="cmd" name="all-commands">
@@ -50,7 +61,7 @@
             <br>
             <hr>
 
-            <div class="item">
+            <div class="item" id="cmd2">
                 <h2><i class="bi bi-dpad-fill"></i> Criar camada Controller</h2>
                 <p class="ptb-10">Abaixo estão todos os comandos e suas variações para criar a camada controller em seu projeto. Basta escolher qual variação você se adapta melhor e digitar no seu prompt de comando.</p>
                 <div class="cmd" name="all-commands">
@@ -71,7 +82,7 @@
             <br>
             <hr>
 
-            <div class="item">
+            <div class="item" id="cmd3">
                 <h2><i class="bi bi-car-front"></i> Criar camada Model</h2>
                 <p class="ptb-10">Abaixo estão todos os comandos e suas variações para criar a camada model em seu projeto. Basta escolher qual variação você se adapta melhor e digitar no seu prompt de comando.</p>
                 <div class="cmd" name="all-commands">
@@ -92,7 +103,7 @@
             <br>
             <hr>
 
-            <div class="item">
+            <div class="item" id="cmd4">
                 <h2><i class="bi bi-database-fill"></i> Criar camada DAO</h2>
                 <p class="ptb-10">Abaixo estão todos os comandos e suas variações para criar a camada DAO em seu projeto. Basta escolher qual variação você se adapta melhor e digitar no seu prompt de comando.</p>
                 <div class="cmd" name="all-commands">
@@ -113,7 +124,7 @@
             <br>
             <hr>
 
-            <div class="item">
+            <div class="item" id="cmd5">
                 <h2><i class="bi bi-broadcast"></i> Ver Todos os Comandos</h2>
                 <p class="ptb-10">Abaixo estão todos os comandos e suas variações para ver todos os comandos existentes do codeflame. Basta escolher qual variação você se adapta melhor e digitar no seu prompt de comando.</p>
                 <div class="cmd" name="all-commands">
@@ -134,7 +145,7 @@
             <br>
             <hr>
 
-            <div class="item">
+            <div class="item" id="cmd6">
                 <h2><i class="bi bi-file-diff-fill"></i> Versão do Codeflame</h2>
                 <p class="ptb-10">Abaixo estão todos os comandos e suas variações para ver a versão atual do codeflame. Basta escolher qual variação você se adapta melhor e digitar no seu prompt de comando.</p>
                 <div class="cmd" name="all-commands">

@@ -56,3 +56,15 @@ main .sec__commands__documentation h1 > span {
     padding: 10px 0;
     margin: 10px;
 }
+
+.sumario {
+    padding: 10px;
+}
+
+.sumario a {
+    padding: 5px;
+}
+
+.sumario h3 {
+    padding-bottom: 10px;
+}

@@ -3,12 +3,13 @@
 </div>
 <div class="nav">
     <ul>
-        <li><a href="/about">Sobre</a></li>
-        <li><a href="/getstarted">Tutorial Instalação</a></li>
-        <li><a href="/commands-documentation">Documentação\Comandos</a></li>
-        <li><a href="">Atualizações</a></li>
-        <li><a href="">Pague Meu Café</a></li>
-        <li><a target="__blank" href="https://github.com/gaboliveiradev/codeflame">Github</a></li>
+        <li><a href="/about">SOBRE</a></li>
+        <li><a href="">DOCUMENTAÇÃO</a></li>
+        <li><a href="/getstarted">GET STARTED</a></li>
+        <li><a href="/commands">COMANDOS CLI</a></li>
+        <li><a href="">ATUALIZAÇÕES</a></li>
+        <li><a href="">PAGUE MEU CAFÉ</a></li>
+        <li><a target="__blank" href="https://github.com/gaboliveiradev/codeflame">GITHUB</a></li>
     </ul>
 </div>
 <div class="follow">

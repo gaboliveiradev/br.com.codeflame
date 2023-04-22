@@ -51,7 +51,7 @@
                     <p>Se você fez tudo certo abre seu terminal e digite <b>"codeflame --version"</b> seu output deverá ser a versão atual do codeflame.</p>
                 </div>
                 <div class="btn__cmd">
-                    <a href="/commands-documentation"><i class="bi bi-terminal-fill"></i> Ver Comandos do Codeflame</a>
+                    <a href="/commands"><i class="bi bi-terminal-fill"></i> Ver Comandos do Codeflame</a>
                 </div>
             </div>
         </section>

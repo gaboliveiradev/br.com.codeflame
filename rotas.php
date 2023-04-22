@@ -17,7 +17,7 @@ switch($parse_uri) {
         GetStartedController::index();
     break;
 
-    case "/commands-documentation":
+    case "/commands":
         GetStartedController::viewCommands();
     break;
 
