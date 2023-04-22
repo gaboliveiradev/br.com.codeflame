@@ -15,10 +15,10 @@
     <main>
         <div class="box-main">
             <div class="title">
-                <h1>Transform your development with Codeflame <span class="emphasis">the revolutionary PHP framework.</span></h1>
+                <h1>De um passo a mais com Codeflame, <span class="emphasis">o revolucionário framework PHP.</span></h1>
             </div>
             <div class="subtitle">
-                <p>CodeFlame is an excellent choice for PHP developers seeking to increase their productivity and efficiency without sacrificing code quality or application functionality. Try it today and experience the difference that a well-designed framework can make in your software development journey!</p>
+                <p>CodeFlame é uma excelente escolha para desenvolvedores PHP que buscam aumentar sua produtividade e eficiência sem sacrificar a qualidade do código ou funcionalidade do aplicativo. Experimente hoje mesmo e sinta a diferença que um framework bem projetado pode fazer em sua jornada de desenvolvimento de software!</p>
             </div>
             <div class="buttons">
                 <div class="getstarted">
@@ -37,18 +37,18 @@
     <div class="clear"></div>
     <section class="why-use">
         <div class="title">
-            <h1>Why use Codeflame?</h1>
+            <h1>Vantagens do Codeflame</h1>
         </div>
         <div class="cards-box">
             <div class="card">
                 <div class="img">
-                    <img src="./../../../View/assets/database.png">
+                    <img src="./../../../View/assets/produtividade.png">
                 </div>
                 <div class="title">
-                    <h2>Databases</h2>
+                    <h2>Produtividade</h2>
                 </div>
                 <div class="desc">
-                    <p>With CodeFlame, you can create database structures in just seconds. Goodbye to complex and frustrating SQL codes! Let us simplify and take care of it for you. And the best part is, you can be sure that your database is secure thanks to our priority in maintaining data security.</p>
+                    <p>O CodeFlame fornece um conjunto de ferramentas e recursos que podem ajudar os desenvolvedores a escrever código de forma mais rápida, limpa e eficiente. Não perca tempo com tarefas simples que consomem muitas horas. Isso pode economizar tempo e aumentar a produtividade.</p>
                 </div>
             </div>
             <div class="card">
@@ -56,10 +56,10 @@
                     <img src="./../../../View/assets/camada.png">
                 </div>
                 <div class="title">
-                    <h2>MVC Structure</h2>
+                    <h2>Padrão MVC</h2>
                 </div>
                 <div class="desc">
-                    <p>With just one simple command, you can create complete websites with MVC structures. No more worries about separate creation of Model, DAO, Controller, and View. Let our framework take care of it for you, making the development process faster and more efficient.</p>
+                    <p>Com apenas um comando simples, você pode criar sites completos com estruturas MVC. Não é preciso se preocupar mais com a criação separada de Model, DAO, Controller e View. Deixe o nosso framework cuidar disso para você, tornando o processo de desenvolvimento mais rápido e eficiente.</p>
                 </div>
             </div>
             <div class="card">
@@ -67,21 +67,32 @@
                     <img src="./../../../View/assets/gabinete.png">
                 </div>
                 <div class="title">
-                    <h2>Organized Code</h2>
+                    <h2>Código Organizado</h2>
                 </div>
                 <div class="desc">
-                    <p>With CodeFlame, you can create organized applications with well-separated files. Goodbye to chaos and wasting time searching in the development environment. With our clear structure, you can enjoy simple and smooth programming, optimizing your time and increasing your efficiency.</p>
+                    <p>Com o CodeFlame, você pode criar aplicações organizadas com arquivos bem separados. Adeus ao caos e à perda de tempo procurando no ambiente de desenvolvimento. Com a nossa estrutura, você pode desfrutar de uma programação simples e suave, otimizando seu tempo.</p>
                 </div>
             </div>
             <div class="card">
                 <div class="img">
-                    <img src="./../../../View/assets/github.png">
+                    <img src="./../../../View/assets/layer.png">
                 </div>
                 <div class="title">
-                    <h2>Integration with Github</h2>
+                    <h2>Camadas MVC</h2>
                 </div>
                 <div class="desc">
-                    <p>With CodeFlame, you can configure it to automatically upload your projects to Github, saving your valuable time. Time is money, and we understand that. Let technology work for you while you focus on being creative and doing what you do best.</p>
+                    <p>Com o CodeFlame, é possível criar camadas bem definidas em sua aplicação. O framework suporta a criação do Controller, Model e DAO, trazendo uma arquitetura organizada e escalável para o seu projeto. Isso significa que você pode escrever código de forma estruturada e eficiente.</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="img">
+                    <img src="./../../../View/assets/bootstrap.png">
+                </div>
+                <div class="title">
+                    <h2>Integração Bootstrap</h2>
+                </div>
+                <div class="desc">
+                    <p>O Codeflame é um framework que já traz a integração com o bootstrap, basta você importar um arquivo para seu html e pronto. Mas também como sabemos que não é todo mundo que gosta de utilizar este framework de front-end. É muito simples alterar ou até mesmo excluir o bootstrap da sua aplicação</p>
                 </div>
             </div>
         </div>

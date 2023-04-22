@@ -179,6 +179,7 @@ main > .img3{
 .cards-box{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .why-use > .title{
