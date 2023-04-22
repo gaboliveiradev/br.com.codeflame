@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./../../../View/css/documentation/index.style.css">
     <link rel="stylesheet" href="./../../../View/css/welcome/index.style.css">
+    <link rel="stylesheet" href="./../../../View/css/getstarted/commands.style.css">
     <link rel="shortcut icon" href="./../../../View/assets/favicon.png" type="image/x-icon">
     <title>Documentação Codeflame</title>
 </head>
@@ -25,16 +26,16 @@
                         <h4>Arquivos Raiz</h4>
                         <ol>
                             <li>
-                                <a href="">Arquivo indedx.php</a>
+                                <a href="" name="index.php">Arquivo index.php</a>
                             </li>
                             <li>
-                                <a href="">Arquivo config.php</a>
+                                <a href="" name="config.php">Arquivo config.php</a>
                             </li>
                             <li>
-                                <a href="">Arquivo autoload.php</a>
+                                <a href="" name="autoload.php">Arquivo autoload.php</a>
                             </li>
                             <li>
-                                <a href="">Arquivo rotas.php</a>
+                                <a href="" name="rotas.php">Arquivo rotas.php</a>
                             </li>
                         </ol>
                     </li>
@@ -42,19 +43,19 @@
                         <h4>Pasta View</h4>
                         <ol>
                             <li>
-                                <a href="">Pasta "assets"</a>
+                                <a href="" name="assets">Pasta "assets"</a>
                             </li>
                             <li>
-                                <a href="">Pasta "bootstrap"</a>
+                                <a href="" name="bootstrap">Pasta "bootstrap"</a>
                             </li>
                             <li>
-                                <a href="">Pasta "css"</a>
+                                <a href="" name="csss">Pasta "css"</a>
                             </li>
                             <li>
-                                <a href="">Pasta "includes"</a>
+                                <a href="" name="includes">Pasta "includes"</a>
                             </li>
                             <li>
-                                <a href="">Pasta "modules"</a>
+                                <a href="" name="modules">Pasta "modules"</a>
                             </li>
                         </ol>
                     </li>
@@ -62,7 +63,7 @@
                         <h4>Pasta Controller</h4>
                         <ol>
                             <li>
-                                <a href="">Classe Abstrata Controller.php</a>
+                                <a href="" name="controller">Classe Abstrata Controller.php</a>
                             </li>
                         </ol>
                     </li>
@@ -70,7 +71,7 @@
                         <h4>Pasta Model</h4>
                         <ol>
                             <li>
-                                <a href="">Classe Abstrata Model.php</a>
+                                <a href="" name="model">Classe Abstrata Model.php</a>
                             </li>
                         </ol>
                     </li>
@@ -78,7 +79,7 @@
                         <h4>Pasta DAO</h4>
                         <ol>
                             <li>
-                                <a href="">Classe Abstrata DAO.php</a>
+                                <a href="" name="dao">Classe Abstrata DAO.php</a>
                             </li>
                         </ol>
                     </li>
@@ -87,19 +88,19 @@
                         <h4>Tópicos</h4>
                         <ol>
                             <li>
-                                <a href="">Criar nova rota</a>
+                                <a href="" name="rota">Criar nova rota</a>
                             </li>
                             <li>
-                                <a href="">Dados de conexão MySQL</a>
+                                <a href="" name="connection">Dados de conexão MySQL</a>
                             </li>
                             <li>
-                                <a href="">Alterar SGBD</a>
+                                <a href="" name="sgbd">Alterar SGBD</a>
                             </li>
                             <li>
-                                <a href="">Autenticação de login</a>
+                                <a href="" name="autentication">Autenticação de login</a>
                             </li>
                             <li>
-                                <a href="">Padrão de Projeto MVC</a>
+                                <a href="" name="mvc">Padrão de Projeto MVC</a>
                             </li>
                         </ol>
                     </li>
@@ -107,8 +108,17 @@
             </div>
         </section>
         <section class="content__documentation">
-            -- aqui vai o conteudo da documentação --
+            <div class="title__documentation">
+                <h2></h2>
+            </div>
+            <div class="about">
+                
+            </div>
         </section>
     </section>
+
+    <footer>
+        <script src="./../../../src/script.js"></script>
+    </footer>
 </body>
 </html>
