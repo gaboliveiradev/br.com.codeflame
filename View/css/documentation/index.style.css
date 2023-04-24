@@ -25,15 +25,11 @@ body {
     height: 100%; /* <--------------------------------------------------------------------------------- */
 }
 
-/*  SIDEBAR SUMARY */
-
-.title__sumario__documentation {
-    padding: 40px;
-    text-align: center;
-    border-bottom: 1px solid #000;
-    border-radius: 10px;
-    background-color: #fdbf5c;;
+.title__documentation > h2 {
+    font-size: 2em;
 }
+
+/*  SIDEBAR SUMARY */
 
 .itens__sumario {
     padding: 25px 40px;
@@ -52,9 +48,8 @@ ul > li {
 }
 
 .content__documentation .title__documentation {
-    padding: 10px;
-    color: #666666;
-    opacity: 0.8;
+    color: #232631;
+    opacity: 1;
 }
 
 .content__documentation > .about {
@@ -66,8 +61,7 @@ ul > li {
 }
 
 .content__documentation > .about > ul li {
-    padding: 0 20px;
-    list-style-type: none;
+    padding: 5px;
     font-weight: bold;
     color: #d43a00;
 }
@@ -100,6 +94,10 @@ ul > li {
 
 .cor__var__especial {
     color: rgb(155, 155, 236);
+}
+
+.cor__namespace {
+    color: rgb(143, 216, 192);
 }
 
 .pl-20 {

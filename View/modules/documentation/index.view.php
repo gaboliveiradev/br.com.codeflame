@@ -17,13 +17,10 @@
     
     <section class="main">
         <section class="sidebar__sumario">
-            <div class="title__sumario__documentation">
-                <h3><i class="bi bi-file-earmark-code-fill"></i> Sumário Documentação</h3>
-            </div>
             <div class="itens__sumario">
                 <ul>
                     <li>
-                        <h4>Arquivos Raiz</h4>
+                        <h4>Arquivos Principais</h4>
                         <ol>
                             <li>
                                 <a href="" name="index.php">Arquivo index.php</a>
@@ -83,24 +80,50 @@
                             </li>
                         </ol>
                     </li>
-
                     <li>
-                        <h4>Tópicos</h4>
+                        <h4>Rotas</h4>
                         <ol>
                             <li>
                                 <a href="" name="rota">Criar nova rota</a>
                             </li>
+                        </ol>
+                    </li>
+                    <li>
+                        <h4>Banco de Dados</h4>
+                        <ol>
                             <li>
                                 <a href="" name="connection">Dados de conexão MySQL</a>
                             </li>
                             <li>
                                 <a href="" name="sgbd">Alterar SGBD</a>
                             </li>
+                        </ol>
+                    </li>
+                    <li>
+                        <h4>Autenticações</h4>
+                        <ol>
                             <li>
                                 <a href="" name="autentication">Autenticação de login</a>
                             </li>
+                        </ol>
+                    </li>
+                    <li>
+                        <h4>Padrão de Projeto</h4>
+                        <ol>
                             <li>
-                                <a href="" name="mvc">Padrão de Projeto MVC</a>
+                                <a href="" name="mvc">O que é o MVC?</a>
+                            </li>
+                            <li>
+                                <a href="" name="controller">O que é a camada Controller?</a>
+                            </li>
+                            <li>
+                                <a href="" name="model">O que é a camada Model?</a>
+                            </li>
+                            <li>
+                                <a href="" name="dao">O que é a camada DAO?</a>
+                            </li>
+                            <li>
+                                <a href="" name="study-mvc">Aprenda padrão de projeto MVC</a>
                             </li>
                         </ol>
                     </li>
