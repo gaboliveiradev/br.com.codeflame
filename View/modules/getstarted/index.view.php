@@ -25,7 +25,7 @@
                     <h2>
                         <span><i class="bi bi-download"></i> Faça download e execute o instalador.</span>
                         <div class="download">
-                            <a href="./../../../View/assets/msi/InstallerCodeflame.msi" download="install codeflame.msi"><i class="bi bi-file-arrow-down-fill"></i> DOWNLOAD v1.2.0-beta</a>
+                            <a href="./../../../View/assets/msi/Instalador CF.msi" download="Instalador CF-v1.2.0-beta.msi"><i class="bi bi-file-arrow-down-fill"></i> DOWNLOAD v1.2.0-beta</a>
                         </div>
                     </h2>
                     <p>Para fazer o download do instalador do codeflame basta clicar no botão vermelho acima. Após terminar o download do arquivo msi em sua maquina, execute-o dando dois cliques.</p>

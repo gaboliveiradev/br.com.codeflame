@@ -6,7 +6,6 @@
 <div class="nav">
     <ul>
         <li><a href="/about">SOBRE</a></li>
-        <li><a href="/documentation">DOCUMENTAÇÃO</a></li>
         <li><a href="/getstarted">GET STARTED</a></li>
         <li><a href="/commands">COMANDOS CLI</a></li>
         <li><a href="">ATUALIZAÇÕES</a></li>

@@ -25,7 +25,7 @@
                     <a href="/getstarted"><i class="bi bi-play-fill"></i> GET STARTED</a>
                 </div>
                 <div class="download">
-                    <a href="./../../../View/assets/msi/InstallerCodeflame.msi" download="install codeflame.msi"><i class="bi bi-cloud-arrow-down-fill"></i> DOWNLOAD v1.2.0-beta</a>
+                    <a href="./../../../View/assets/msi/Instalador CF.msi" download="Instalador CF-v1.2.0-beta.msi"><i class="bi bi-cloud-arrow-down-fill"></i> DOWNLOAD v1.2.0-beta</a>
                 </div>
             </div>
         </div>

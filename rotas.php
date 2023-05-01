@@ -22,10 +22,6 @@ switch($parse_uri) {
         GetStartedController::viewCommands();
     break;
 
-    case "/documentation":
-        DocumentationController::index();
-    break;
-
     default:
         header("Location: /about");
     break;
